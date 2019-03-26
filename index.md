@@ -34,7 +34,7 @@ To add this element to post using shortcode, add shortcode "[ghud_music_player]"
     
     4. title: title of media file
     
-    5. Isrc: Isrc code of music file
+    5. isrc: isrc code of music file
     
 To add media element to post using graphical interface, ShortCake plugin is required. For Wordpress versions 5.0 and above,
 both ShortCake and tinymce plugins are required.
