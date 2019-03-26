@@ -58,9 +58,13 @@ A) Yes it does. It sends usage data to the GhudMusic server
 Tags: audio player, media post
 
 Requires at least: 3.0
+
 Tested up to: 5.0
+
 Requires PHP: 7.0
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 
