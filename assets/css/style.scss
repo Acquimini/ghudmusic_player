@@ -2,6 +2,13 @@
  ---
 
 @import "{{ site.theme }}";
+.project_tagline_one {
+  color: #ea1f50;
+  font-size: 30px;
+  font-weight: 400;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+}
 #header_wrap_one {
   background: #000000;
   background: -moz-linear-gradient(top, #373737, #212121);
@@ -12,10 +19,4 @@
 }
 
 
-#project_tagline_one {
-  color: #ea1f50;
-  font-size: 30px;
-  font-weight: 400;
-  background: none;
-  text-shadow: #111 0px 0px 10px;
-}
+
