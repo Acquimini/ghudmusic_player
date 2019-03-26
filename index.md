@@ -1,17 +1,14 @@
 ### Ghud Music Player
     
-Ghud Music Palyer is a wordpress plugin for integrating GhudMusic audio player service to posts on a wordpress site.
+Ghud Music Player is a proudly Ghanaian wordpress plugin for integrating GhudMusic audio player service to posts on a wordpress site.
 
 ### Description 
 
-The plugin adds an audio player element to wordpress posts. The Ghud Music player comes with extra services such as user data collection and analytics.
+The plugin adds an audio player element to wordpress posts. The Ghud Music player comes with extra services such as user data analytics.
 
 
 ## Special Features
-Features of the player includes:
-This plugin sends client information to the GhudMusic servers for usage data collection and analytics
-This plugin relies on [ip-api](http://ip-api.com/) as a service to get geolocation data on the user
-ip-api [terms and use](https://signup.ip-api.com/terms)
+Features of the player includes: This plugin sends client information to the Ghud Music servers for usage data analytics for artistes to know more about their fans. 
 
 
 ### Installation
@@ -37,7 +34,7 @@ To add this element to post using shortcode, add shortcode "[ghud_music_player]"
     
     4. title: title of media file
     
-    5. src: src code of music file
+    5. Isrc: Isrc code of music file
     
 To add media element to post using graphical interface, ShortCake plugin is required. For Wordpress versions 5.0 and above,
 both ShortCake and tinymce plugins are required.
@@ -50,7 +47,7 @@ A) No you cannot. You can only add one ghud music element per post
 
 Q) Does this plugin collect data?
 
-A) Yes it does. It sends usage data to the GhudMusic server
+A) Yes it does. It sends usage data  such us country of user, city of user, download count to the GhudMusic server
 
 
 
