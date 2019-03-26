@@ -1,13 +1,13 @@
-### === Ghud Music ===
+### Ghud Music
     
 Ghud Music Palyer is a wordpress plugin for integrating GhudMusic audio player service to posts on a wordpress site.
 
-### == Description ==
+### Description 
 
 The plugin adds an audio player element to wordpress posts. The Ghud Music player comes with extra services such as user data collection and analytics.
 
 
-## ==Special Feactures==
+## Special Feactures
 Features of the player includes:
 This plugin sends client information to the GhudMusic servers for usage data collection and analytics
 This plugin relies on [ip-api](http://ip-api.com/) as a service to get geolocation data on the user
@@ -42,7 +42,6 @@ A) No you cannot. You can only add one ghud music element per post
 Q) Does this plugin collect data?
 A) Yes it does. It sends usage data to the GhudMusic server
 
-## ====================================================================================================================
 
 
 
