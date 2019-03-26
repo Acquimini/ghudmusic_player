@@ -1,4 +1,4 @@
-### Ghud Music
+### Ghud Music Player
     
 Ghud Music Palyer is a wordpress plugin for integrating GhudMusic audio player service to posts on a wordpress site.
 
@@ -28,6 +28,7 @@ You may install the plugin using the methods:
 After activating the plugin, you could start audio elements to posts using this plugin.
 You can add this element to post either by using wordpress shortcode or using shortcake ui.
 To add this element to post using shortcode, add shortcode "[ghud_music_player]" with the following attributes:
+
     1. file_path : the path to music file
     
     2. cover_path: the path to the music thumbnail
