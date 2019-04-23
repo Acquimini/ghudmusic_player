@@ -49,7 +49,7 @@ To add Ghud Music player to a post
   
 6. Save and publish Post to see the Ghud Music player in action
 
-  ![Image For Procedure 6](https://raw.githubusercontent.com/aquimiini/imageBucket/master/bucket/5.png)
+  ![Image For Procedure 6](https://raw.githubusercontent.com/aquimiini/imageBucket/master/bucket/6.png)
 
     
 ## GhudMusic Player Form Fields:
