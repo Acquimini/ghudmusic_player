@@ -23,33 +23,33 @@ You may install the plugin using the methods:
 
 5.	Activate the plugin through the ‘Plugins’ menu in Wordpress after the upload.
 
-6. Install and activate [ShortCake](https://wordpress.org/plugins/shortcode-ui/) ![shortcakeicon](https://github.com/aquimiini/imageBucket/blob/master/bucket/shortcake.png) and  and [tinymce](https://wordpress.org/plugins/tinymce-advanced/) ![tinymce logo](https://github.com/aquimiini/imageBucket/blob/master/bucket/tinymce.png)  plugins from [WordPress Plugin](https://wordpress.org/plugins/) Directory.
+6. Install and activate [ShortCake](https://wordpress.org/plugins/shortcode-ui/) ![shortcakeicon](https://raw.githubusercontent.com/aquimiini/imageBucket/master/bucket/shortcake.png) and  and [tinymce](https://wordpress.org/plugins/tinymce-advanced/) ![tinymce logo](https://raw.githubusercontent.com/aquimiini/imageBucket/master/bucket/tinymce.png)  plugins from [WordPress Plugin](https://wordpress.org/plugins/) Directory.
 
 ### Usage
 To add Ghud Music player to a post
 
 1.	In the wordpress classic Editor, select Add block and choose “Classic Paragraph”  
 
- ![Image For Procedure 1](https://github.com/aquimiini/imageBucket/blob/master/bucket/1.png)
+ ![Image For Procedure 1](https://raw.githubusercontent.com/aquimiini/imageBucket/master/bucket/1.png)
  
 2. In the Classic paragraph, click on the “Add Media icon”
 
-![Image For Procedure 2](https://github.com/aquimiini/imageBucket/blob/master/bucket/2.png)
+![Image For Procedure 2](https://raw.githubusercontent.com/aquimiini/imageBucket/master/bucket/2.png)
 
 
 3. Select “Insert Post Element” on the sidebar of the Add Media dialog
 
- ![Image For Procedure 3](https://github.com/aquimiini/imageBucket/blob/master/bucket/3.png)
+ ![Image For Procedure 3](https://raw.githubusercontent.com/aquimiini/imageBucket/master/bucket/3.png)
  
 4. Select the Ghud Music player element from the list.
 
 5. This opens up a form. Fill in all the form fields with appropriate info and click on “Insert Element”
 
-  ![Image For Procedure 4 & 5](https://github.com/aquimiini/imageBucket/blob/master/bucket/4.png)
+  ![Image For Procedure 4 & 5](https://raw.githubusercontent.com/aquimiini/imageBucket/master/bucket/4.png)
   
 6. Save and publish Post to see the Ghud Music player in action
 
-  ![Image For Procedure 6](https://github.com/aquimiini/imageBucket/blob/master/bucket/5.png)
+  ![Image For Procedure 6](https://raw.githubusercontent.com/aquimiini/imageBucket/master/bucket/5.png)
 
     
 ## GhudMusic Player Form Fields:
